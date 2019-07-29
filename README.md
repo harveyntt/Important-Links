@@ -1,6 +1,7 @@
 # Important-Links
 List of Userful links
 
+https://github.com/onmyway133/fantastic-machine-learning?source=post_page---------------------------
 
 # Machine Learning
 https://sgfin.github.io/learning-resources/
