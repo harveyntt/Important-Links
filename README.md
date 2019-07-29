@@ -5,6 +5,9 @@ List of Userful links
 # Machine Learning
 https://sgfin.github.io/learning-resources/
 
+https://www.appliedaicourse.com/course/11/Applied-Machine-learning-course -[COURSE]
+
+
 ## Course Collection Links
 http://www.jeremydjacksonphd.com/category/deep-learning/
 
@@ -12,7 +15,11 @@ https://github.com/surajrampure/berkeley-cs-courses
 
 https://www2.eecs.berkeley.edu/Courses/CS/
 
+https://www.kaggle.com/getting-started/37999
 
+https://heartbeat.fritz.ai/25-open-source-machine-learning-repos-to-inspire-your-next-project-3b027a90155
+
+https://github.com/ujjwalkarn/DataSciencePython?source=post_page---------------------------
 
 ## Reinforcement Learning
 http://rail.eecs.berkeley.edu/deeprlcourse/?source=post_page---------------------------  -[Course]
