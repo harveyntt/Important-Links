@@ -6,6 +6,8 @@ https://github.com/onmyway133/fantastic-machine-learning?source=post_page-------
 # Machine Learning
 https://theopenacademy.com/content/machine-learning  -[COURSE]
 
+https://bair.berkeley.edu/blog/?refresh=1   --[READING]
+
 https://sgfin.github.io/learning-resources/
 
 https://www.quora.com/How-do-I-learn-machine-learning-1/answers/13954395
