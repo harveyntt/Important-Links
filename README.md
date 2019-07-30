@@ -6,6 +6,8 @@ https://github.com/onmyway133/fantastic-machine-learning?source=post_page-------
 # Machine Learning
 https://sgfin.github.io/learning-resources/
 
+https://www.quora.com/How-do-I-learn-machine-learning-1/answers/13954395
+
 https://www.appliedaicourse.com/course/11/Applied-Machine-learning-course -[COURSE]
 
 https://www.appliedaicourse.com/ -[COURSE]
