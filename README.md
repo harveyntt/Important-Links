@@ -46,3 +46,13 @@ https://sites.google.com/view/deep-rl-bootcamp/lectures?source=post_page--------
 
 # Other Computer Science stuffs
 
+
+
+
+
+#Data Science
+##Data Camp
+### NLP(Natural Language Processing) Project
+* http://tlfvincent.github.io/2015/10/23/presidential-speech-topics/#topic=0&lambda=1&term=
+
+
